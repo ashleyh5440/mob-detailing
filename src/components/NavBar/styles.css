@@ -1,0 +1,25 @@
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.nav {
+    padding: 2%;
+    width: 65%;
+}
+
+.nav-item {
+    margin: 0% 3%;
+}
+
+.nav-item a {
+    color: white;
+    font-family: "Racing Sans One", sans-serif;
+    font-size: 32px;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    color: grey;
+}

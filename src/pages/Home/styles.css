@@ -1,0 +1,49 @@
+h1 {
+    color: white;
+    font-family: "Racing Sans One", sans-serif;
+    font-size: 80px;
+}
+
+p {
+    color: white;
+    font: 30px; 
+}
+
+.home-name {
+    width: 40%;
+}
+
+.home-logo {
+    width: 30%;
+    margin-bottom: 5%;
+}
+
+.home-name img, .home-logo img {
+    width: 100%;
+}
+
+.about-container {
+    width: 80%;
+    margin-bottom: 7%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    margin-bottom: 7%;
+}
+
+.services-container li {
+    color: white;
+    font-size: 25px;
+}
+
+#home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
