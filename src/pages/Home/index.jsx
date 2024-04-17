@@ -20,7 +20,7 @@ function Home() {
                 <div id="serv-left">
                     <ul>
                         <li>Exterior wash</li>
-                        <li>Desalt and deodorize eats, carpets, mats, trunk</li>
+                        <li>Desalt and deodorize seats, carpets, mats, trunk</li>
                         <li>Interior wipe down</li>
                         <li>Window cleaning</li>
                     </ul>
